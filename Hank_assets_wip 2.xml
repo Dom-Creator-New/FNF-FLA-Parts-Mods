@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hank_assets_wip 2.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Untitled104_20210612113830.png" x="0" y="0" width="273" height="469"/>
+	<SubTexture name="Untitled104_20210612113838.png" x="273" y="0" width="717" height="575"/>
+	<SubTexture name="Untitled104_20210612113850.png" x="990" y="0" width="279" height="420"/>
+	<SubTexture name="Untitled104_20210612113902.png" x="1269" y="0" width="465" height="537"/>
+	<SubTexture name="Untitled104_20210612113910.png" x="1734" y="0" width="461" height="297"/>
+	<SubTexture name="Untitled104_20210612113920.png" x="2195" y="0" width="322" height="332"/>
+	<SubTexture name="Untitled104_20210612113927.png" x="2517" y="0" width="412" height="370"/>
+	<SubTexture name="Untitled104_20210612114306.png" x="2929" y="0" width="783" height="619"/>
+	<SubTexture name="Untitled104_20210612114331.png" x="0" y="619" width="461" height="267"/>
+	<SubTexture name="Untitled104_20210612114348.png" x="461" y="619" width="466" height="518"/>
+	<SubTexture name="Untitled104_20210612114407.png" x="927" y="619" width="720" height="775"/>
+	<SubTexture name="Untitled104_20210612114425.png" x="1647" y="619" width="483" height="486"/>
+	<SubTexture name="Untitled104_20210612114425.png copy" x="2130" y="619" width="530" height="515"/>
+	<SubTexture name="Untitled104_20210612114437.png" x="2660" y="619" width="467" height="533"/>
+	<SubTexture name="Untitled104_20210612114506.png" x="3127" y="619" width="793" height="498"/>
+	<SubTexture name="Untitled104_20210612114516.png" x="0" y="1394" width="492" height="503"/>
+	<SubTexture name="Untitled104_20210612114522.png" x="492" y="1394" width="626" height="525"/>
+	<SubTexture name="Untitled104_20210612114624.png" x="1118" y="1394" width="855" height="625"/>
+	<SubTexture name="Untitled104_20210612120912.png" x="1973" y="1394" width="525" height="550"/>
+	<SubTexture name="Untitled118_20210621122113.png" x="2498" y="1394" width="812" height="639"/>
+	<SubTexture name="Untitled118_20210621122151.png" x="3310" y="1394" width="628" height="389"/>
+	<SubTexture name="Untitled118_20210621122815.png" x="0" y="2033" width="524" height="624"/>
+	<SubTexture name="Untitled118_20210704235905.png" x="524" y="2033" width="416" height="499"/>
+	<SubTexture name="left_replacement.png" x="940" y="2033" width="483" height="576"/>
+	<SubTexture name="right_replacement.png" x="1423" y="2033" width="582" height="583"/>
+	<SubTexture name="up_replacement.png" x="2005" y="2033" width="517" height="536"/>
+</TextureAtlas>
