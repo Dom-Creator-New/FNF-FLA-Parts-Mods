@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Kad Fla Parts.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Body0000" x="0" y="0" width="96" height="107"/>
+	<SubTexture name="Head0000" x="96" y="0" width="117" height="106"/>
+	<SubTexture name="Head Down0000" x="213" y="0" width="117" height="106"/>
+	<SubTexture name="Head Left0000" x="330" y="0" width="117" height="106"/>
+	<SubTexture name="Head Right0000" x="0" y="107" width="117" height="106"/>
+	<SubTexture name="Head Up0000" x="117" y="107" width="117" height="106"/>
+	<SubTexture name="Left Hand0000" x="234" y="107" width="42" height="140"/>
+	<SubTexture name="Left Hand Left0000" x="276" y="107" width="65" height="110"/>
+	<SubTexture name="Left Leg0000" x="341" y="107" width="47" height="121"/>
+	<SubTexture name="Right Leg0000" x="388" y="107" width="47" height="121"/>
+	<SubTexture name="Right hand0000" x="435" y="107" width="68" height="77"/>
+	<SubTexture name="Shoes0000" x="0" y="247" width="97" height="71"/>
+</TextureAtlas>
